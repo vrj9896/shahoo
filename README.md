@@ -49,8 +49,8 @@ Change config by set the corresponding environment variable name.
 git clone https://github.com/azamaulanaaa/botkaca.git
 
 # build then execute using docker image
-docker build -t azamaulanaaa/botkaca botkaca
-docker run -it azamaulanaaa/botkaca
+docker build -t vrj9896/botkaca botkaca
+docker run -it vrj9896/botkaca
 ```
 
 ## Bot Details
